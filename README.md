@@ -1,13 +1,13 @@
 Kevin Kee
 ---------
 
-### Aspiring Site Reliability Engineer
-
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="24">](https://t.me/friendofdog)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="24">](mailto:kevinkee9@gmail.com)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24">](https://www.linkedin.com/in/keekevin/)
 
-🧰 What I use:
+### Aspiring Site Reliability Engineer
+
+🛠 What I use:
 
 <p>
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
@@ -20,7 +20,7 @@ Kevin Kee
 <img src="https://img.shields.io/badge/-Hubl-000?style=flat&logo=hubspot" />
 </p>
 
-🛠️ I’m currently working on:
+️✍️ I’m currently working on:
 
 - An API in Python on Flask
 - A tool which assesses how exposed train seats are to covid infection by other passengers
@@ -30,16 +30,16 @@ Kevin Kee
 - Python, Docker, Kubernetes, AWS
 - Test-driven development
 
-👯 I’m looking to collaborate on:
+🤝 I’m looking to collaborate on:
 
 - Volunteer opportunities
 - Open source projects
 
-💬 Ask me about:
+✋ Ask me about:
 
 - Employment or volunteer opportunities
 
-📫 How to reach me:
+💬 How to reach me:
 
 - Telegram: [@friendofdog](https://t.me/friendofdog)
 - LinkedIn: [linkedin.com/in/keekevin](https://www.linkedin.com/in/keekevin/)
