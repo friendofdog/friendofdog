@@ -6,8 +6,6 @@ Kevin Kee
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24">](https://www.linkedin.com/in/keekevin/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg" width="24">](https://line.me/ti/p/la2WKGGU4M)
 
-### Aspiring Site Reliability Engineer
-
 🛠 What I use:
 
 <p>
