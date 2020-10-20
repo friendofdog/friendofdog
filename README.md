@@ -10,6 +10,7 @@ Kevin Kee
 
 <p>
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
 <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" />
 <img src="https://img.shields.io/badge/-PHP-000?style=flat&logo=php" />
 <img src="https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon" />
@@ -22,7 +23,6 @@ Kevin Kee
 ️✍️ I’m currently working on:
 
 - An API in Python on Flask
-- A tool which assesses how exposed train seats are to covid infection by other passengers
 
 ️💡 I’m currently learning:
 
