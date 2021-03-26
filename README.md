@@ -13,6 +13,7 @@ Kevin Kee
 <img src="https://img.shields.io/badge/-ExpressJS-000?style=flat&logo=express" />
 <img src="https://img.shields.io/badge/-ReactJS-000?style=flat&logo=react" />
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
 <img src="https://img.shields.io/badge/-PHP-000?style=flat&logo=php" />
 <img src="https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon" />
@@ -24,7 +25,8 @@ Kevin Kee
 
 ✍️ I’m currently working on:
 
-- Studying software engineering at [Code Chrysalis](https://www.codechrysalis.io/)
+- [2021-03] Finished software engineering course at [Code Chrysalis](https://www.codechrysalis.io/)
+- Seeking full-time employment
 
 💡 I’m currently learning:
 
