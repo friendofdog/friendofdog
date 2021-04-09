@@ -9,7 +9,7 @@ Frontend
 
 - [Salaryman Shodown](https://github.com/friendofdog/salaryman-shodown) (React)
   - Deployed on [Heroku](https://salaryman-shodown-staging.herokuapp.com)
-- [simple photo gallery](https://github.com/friendofdog/cc17-sprint.vue) (Vue)
+- [Simple photo gallery](https://github.com/friendofdog/vue-photo-gallery) (Vue)
 
 Fullstack
 ---------
