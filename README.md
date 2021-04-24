@@ -25,7 +25,7 @@ Kevin Kee
 
 ✍️ I’m currently working on:
 
-- [2021-03] Finished software engineering course at [Code Chrysalis](https://www.codechrysalis.io/)
+- Finished software engineering course at [Code Chrysalis](https://www.codechrysalis.io/)
 - Seeking full-time employment
 
 💡 I’m currently learning:
