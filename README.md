@@ -9,13 +9,16 @@ Kevin Kee
 🛠 What I've used:
 
 <p>
+<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
+<img src="https://img.shields.io/badge/-Django-000?style=flat&logo=Django" />
 <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" />
 <img src="https://img.shields.io/badge/-ExpressJS-000?style=flat&logo=express" />
 <img src="https://img.shields.io/badge/-ReactJS-000?style=flat&logo=react" />
-<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B" />
-<img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
 <img src="https://img.shields.io/badge/-PHP-000?style=flat&logo=php" />
+<img src="https://img.shields.io/badge/-Neo4j-000?style=flat&logo=Neo4j" />
+<img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL" />
 <img src="https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon" />
 <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker" />
 <img src="https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes" />
