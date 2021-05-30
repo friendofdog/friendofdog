@@ -28,13 +28,13 @@ Kevin Kee
 
 ✍️ I’m currently working on:
 
-- Finished software engineering course at [Code Chrysalis](https://www.codechrysalis.io/)
-- Seeking full-time employment
+- Project lead for an app at [airamp](https://airamp.net/)
+- Open to work
 
 💡 I’m currently learning:
 
-- Fullstack development in JavaScript
-- Test-driven development
+- Graph databases
+- Dev ops fundamentals for developers
 - Project management
 
 👋 Ask me about:
@@ -46,7 +46,6 @@ Kevin Kee
 💬 How to reach me:
 
 - Telegram: [@friendofdog](https://t.me/friendofdog)
-- LinkedIn: [linkedin.com/in/keekevin](https://www.linkedin.com/in/keekevin/)
+- LinkedIn: [https://www.linkedin.com/in/keekevin/](https://www.linkedin.com/in/keekevin/)
 - Gmail: [kevinkee9@gmail.com](mailto:kevinkee9@gmail.com)
 - Line: [@friendofdog](https://line.me/ti/p/la2WKGGU4M)
-
